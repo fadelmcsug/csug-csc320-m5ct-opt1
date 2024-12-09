@@ -1,1 +1,2 @@
-# csug-csc320-m5ct-opt1
+# Weekly Temperature
+This application stores and displays daily average temperatures for one week.
